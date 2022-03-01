@@ -1,0 +1,1 @@
+# repetida, mesma que o exercício 072.py

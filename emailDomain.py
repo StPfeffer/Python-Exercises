@@ -1,4 +1,4 @@
-data = "Fro mstephen.marquard@utc.ac.za Sat Jan 5 09:14:16 2008"
+data = "From stephen.marquard@utc.ac.za Sat Jan 5 09:14:16 2008"
 
 posicao_arroba = data.find("@")
 print(posicao_arroba)

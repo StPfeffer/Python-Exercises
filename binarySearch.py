@@ -23,9 +23,9 @@ def binary_search(l, target, low=None, high=None):
     if l[midpoint] == target:
         return midpoint
     elif target < l[midpoint]:
-        return binary_search(l, target, low, midpoint-1)
+        return binary_search(l, target, low, midpoint - 1)
     else:
-        return binary_search(l, target, midpoint+1, high)
+        return binary_search(l, target, midpoint + 1, high)
 
 if __name__ == '__main__':
 

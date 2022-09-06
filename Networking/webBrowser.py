@@ -1,4 +1,4 @@
-# HTTP request in Python
+# HTTP request in Python without urllib
 
 import socket
 

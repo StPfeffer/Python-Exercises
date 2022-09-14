@@ -1,6 +1,3 @@
-from distutils.log import error
-
-
 def throws():
     return 5 / 0
 

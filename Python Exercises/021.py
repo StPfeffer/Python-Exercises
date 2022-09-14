@@ -1,5 +1,4 @@
 from math import sqrt
-from turtle import distance
 
 
 print("Tip: Enter as 'UP/DOWN/LEFT/RIGHT amount_of_steps'")

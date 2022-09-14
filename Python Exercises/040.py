@@ -1,6 +1,3 @@
-from random import randrange
-
-
 def printList():
     l = []
 
